@@ -1,10 +1,10 @@
 # HabitHive
 
-Habit Tracker
+Habit Tracker:
 
 A web-based habit tracking application to help users build consistency, stay motivated, and visualize their progress.
 
-Features
+Features:
 
   User Authentication – Register and log in securely.
 
@@ -16,7 +16,8 @@ Features
 
   Responsive Design – Works on both desktop and mobile.
 
-Project Structure
+Project Structure:
+
 Habit Tracker/
 │── app.py              
 │── forms.py            
@@ -33,7 +34,7 @@ Habit Tracker/
 │   ├── hive_stats.html
 │   └── blog_detail.html
 
-Installation
+Installation:
 
 Create a virtual environment:
 
@@ -53,7 +54,7 @@ Run the app:
 
 Open in browser
 
-Tech Stack
+Tech Stack:
 
   Backend: Flask, SQLAlchemy - SQL Server
   
@@ -61,7 +62,7 @@ Tech Stack
   
   Database: SQL Server
 
-Screenshots
+Screenshots:
 
   Dashboard
 <img width="1898" height="845" alt="image" src="https://github.com/user-attachments/assets/158e0794-7244-47f9-b8a1-f51b809ccaae" />
@@ -73,4 +74,4 @@ Screenshots
 <img width="1891" height="875" alt="image" src="https://github.com/user-attachments/assets/22a7c755-3569-4a80-9ad8-c76ac3c8c7a9" />
 
   Hive Stats
-<<img width="1896" height="881" alt="image" src="https://github.com/user-attachments/assets/93bfc5a4-a02c-4701-bb6e-660bfec07717" />
+<img width="1896" height="881" alt="image" src="https://github.com/user-attachments/assets/93bfc5a4-a02c-4701-bb6e-660bfec07717" />
