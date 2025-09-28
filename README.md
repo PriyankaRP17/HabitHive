@@ -70,7 +70,7 @@ Screenshots
 <img width="1916" height="880" alt="image" src="https://github.com/user-attachments/assets/ef0ab300-881b-47c0-9b32-c90cabfd76ca" />
 
   Habits
-<img width="1894" height="873" alt="image" src="https://github.com/user-attachments/assets/1f563532-151c-49be-8172-4173b6e045d7" />
+<img width="1891" height="875" alt="image" src="https://github.com/user-attachments/assets/22a7c755-3569-4a80-9ad8-c76ac3c8c7a9" />
 
   Hive Stats
 <<img width="1896" height="881" alt="image" src="https://github.com/user-attachments/assets/93bfc5a4-a02c-4701-bb6e-660bfec07717" />
