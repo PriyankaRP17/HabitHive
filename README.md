@@ -64,7 +64,7 @@ Tech Stack
 Screenshots
 
   Dashboard
-<img width="1890" height="877" alt="image" src="https://github.com/user-attachments/assets/4c2b6d43-626c-4f22-8a1f-638e76ae7031" />
+<img width="1898" height="845" alt="image" src="https://github.com/user-attachments/assets/158e0794-7244-47f9-b8a1-f51b809ccaae" />
 
   Login
 <img width="1916" height="880" alt="image" src="https://github.com/user-attachments/assets/ef0ab300-881b-47c0-9b32-c90cabfd76ca" />
@@ -73,4 +73,4 @@ Screenshots
 <img width="1894" height="873" alt="image" src="https://github.com/user-attachments/assets/1f563532-151c-49be-8172-4173b6e045d7" />
 
   Hive Stats
-<img width="1898" height="845" alt="image" src="https://github.com/user-attachments/assets/309ab2d0-7694-4ea0-bdb9-c4a69ecd66ad" />
+<<img width="1896" height="881" alt="image" src="https://github.com/user-attachments/assets/93bfc5a4-a02c-4701-bb6e-660bfec07717" />
